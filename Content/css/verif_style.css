@@ -1,0 +1,7 @@
+#verif-box {
+
+    box-sizing: border-box;
+    padding: 40px;
+    width: 800px;
+    height: 1000px;
+  }
