@@ -20,7 +20,7 @@
     <img src="strike.png" alt="Preview" width="1280" height="480">
   </a>
 </div>
-<h4 align="center">Le projet est fonctionnel, il faut néanmoins quelque connaissance sur le sujet et particulièrement dans la mise en place d'un </br> environnement de travail WAMP/XAMP ou autres similaires ainsi que la mise en place d'un serveur local psql (postgres SQL).</a></h4>
+<h4 align="center">Le projet est fonctionnel, il faut néanmoins quelque connaissance </br>  sur le sujet et particulièrement dans la mise en place d'un </br> environnement de travail WAMP/XAMP ou autres </br>  similaires ainsi que la mise en place d'un serveur local psql (postgres SQL).</a></h4>
 
 ## Projet 
   L’association Animath organise un événement qui aura pour objectif de Dédra’’math’’iser les maths. Cet événement s’étalera sur 4 jours, du jeudi au dimanche de 9 heures à 18 heures. Cet événement sera gratuit et ouvert à tous, de nombreux exposants tiendront des stands du jeudi au vendredi (jeudi et vendredi pour les scolaires et samedi et dimanche pour tout public) sur des créneaux tout au long de la journée avec des capacités variant en fonction du stand et du nombre d’exposants disponibles. Ce projet doit être développé pour les visiteurs afin qu’ils puissent réserver des créneaux avec les exposants.
