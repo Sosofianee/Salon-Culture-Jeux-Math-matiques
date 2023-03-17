@@ -15,11 +15,7 @@
   <a href="#photos">Photos</a> • 
   <a href="#installation">Installation</a> •
 </p>
-<div align="center">
-  <a href="https://github.com/Polito1/IW3-ENHANCER-MOD)">
-    <img src="strike.png" alt="Preview" width="1280" height="480">
-  </a>
-</div>
+
 <h4 align="center">Le projet est fonctionnel, il faut néanmoins quelque connaissance </br>  sur le sujet et particulièrement dans la mise en place d'un </br> environnement de travail WAMP/XAMP ou autres </br>  similaires ainsi que la mise en place d'un serveur local psql (postgres SQL).</a></h4>
 
 ## Projet 
