@@ -38,13 +38,13 @@
 
  ## Photos 
  
-  - <a href="https://imgur.com/SnPDNKF"><img src="https://i.imgur.com/SnPDNKF.png" title="source: imgur.com" />Accueil</a>   
-  - <a href="https://imgur.com/bDqOuky"><img src="https://i.imgur.com/bDqOuky.png" title="source: imgur.com" />Création de compte</a>                           - <a href="https://imgur.com/GW51s69"><img src="https://i.imgur.com/GW51s69.png" title="source: imgur.com" /> Vérification email</a>                         - <a href="https://imgur.com/f6sRb3r"><img src="https://i.imgur.com/f6sRb3r.png" title="source: imgur.com" /></a>
-  - <a href="https://imgur.com/bDqOuky"><img src="https://i.imgur.com/bDqOuky.png" title="source: imgur.com" />Connexion</a>
-  - <a href="https://imgur.com/AAZwC8Z"><img src="https://i.imgur.com/AAZwC8Z.png" title="source: imgur.com" />Stand</a>                                       - <a href="https://imgur.com/TwL7c2b"><img src="https://i.imgur.com/TwL7c2b.png" title="source: imgur.com" /> Créneaux</a>                                   - <a href="https://imgur.com/u7sC0i0"><img src="https://i.imgur.com/u7sC0i0.png" title="source: imgur.com" />Réservation</a>   
-  - <a href="https://imgur.com/Eh6QxvY"><img src="https://i.imgur.com/Eh6QxvY.png" title="source: imgur.com" /></a>
-  - <a href="https://imgur.com/jnnxi3s"><img src="https://i.imgur.com/jnnxi3s.png" title="source: imgur.com" />Créneau réservé</a>                             - <a href="https://imgur.com/AxtNABJ"><img src="https://i.imgur.com/AxtNABJ.png" title="source: imgur.com" />Planning Visiteur de sa réservation</a> 
-  - <a href="https://imgur.com/mF62Eyv"><img src="https://i.imgur.com/mF62Eyv.png" title="source: imgur.com" />Ajout Automatique des nouveaux stands ayant remplir le formulaire google docs fournir par Amimath via un Script relié au doc</a>
+  - <a href="https://imgur.com/SnPDNKF"><img src="https://i.imgur.com/SnPDNKF.png" title="source: imgur.com" style='width:50%;text-decoration:none;' />Accueil</a>   
+  - <a href="https://imgur.com/bDqOuky"><img src="https://i.imgur.com/bDqOuky.png" title="source: imgur.com"  style='width:50%;text-decoration:none;'/>Création de compte</a>                           - <a href="https://imgur.com/GW51s69"><img src="https://i.imgur.com/GW51s69.png" title="source: imgur.com" style='width:50%;' /> Vérification email</a>                         - <a href="https://imgur.com/f6sRb3r"><img src="https://i.imgur.com/f6sRb3r.png" title="source: imgur.com"style='width:50%;text-decoration:none;' /></a>
+  - <a href="https://imgur.com/bDqOuky"><img src="https://i.imgur.com/bDqOuky.png" title="source: imgur.com"style='width:50%;text-decoration:none;' />Connexion</a>
+  - <a href="https://imgur.com/AAZwC8Z"><img src="https://i.imgur.com/AAZwC8Z.png" title="source: imgur.com"style='width:50%;text-decoration:none;' />Stand</a>                                       - <a href="https://imgur.com/TwL7c2b"><img src="https://i.imgur.com/TwL7c2b.png" title="source: imgur.com"style='width:50%;text-decoration:none;' /> Créneaux</a>                                   - <a href="https://imgur.com/u7sC0i0"><img src="https://i.imgur.com/u7sC0i0.png" title="source: imgur.com" style='width:50%;text-decoration:none;' />Réservation</a>   
+  - <a href="https://imgur.com/Eh6QxvY"><img src="https://i.imgur.com/Eh6QxvY.png" title="source: imgur.com"style='width:50%;text-decoration:none;' /></a>
+  - <a href="https://imgur.com/jnnxi3s"><img src="https://i.imgur.com/jnnxi3s.png" title="source: imgur.com"style='width:50%;text-decoration:none;' />Créneau réservé</a>                             - <a href="https://imgur.com/AxtNABJ"><img src="https://i.imgur.com/AxtNABJ.png" title="source: imgur.com"style='width:50%;' />Planning Visiteur de sa réservation</a> 
+  - <a href="https://imgur.com/mF62Eyv"><img src="https://i.imgur.com/mF62Eyv.png" title="source: imgur.com"style='width:50%; text-decoration:none;' />Ajout Automatique des nouveaux stands ayant remplir le formulaire google docs fournir par Amimath via un Script relié au doc</a>
                   
 
 ## Installation
