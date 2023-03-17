@@ -6,8 +6,8 @@
 
 <h4 align="center">Site événementiel pour le Salon culture Jeux Mathématiques </h4>
 <div align="center">
-  <a href="https://www.animath.fr/""><img src="http://maths-olympiques.fr/wp-content/uploads/2018/05/logo-animath-300x120.png"></a> </br>
-  <a href="https://www.univ-paris13.fr/"><img src="https://www.univ-paris13.fr/wp-content/uploads/logoUSPN-e1672742444342.png" style = 'width:25%;'></a>
+  <a href="https://www.animath.fr/""><img src="http://maths-olympiques.fr/wp-content/uploads/2018/05/logo-animath-300x120.png" style = 'width:50%; margin-bottom:50px;'></a> </br>
+  <a href="https://www.univ-paris13.fr/"><img src="https://www.univ-paris13.fr/wp-content/uploads/logoUSPN-e1672742444342.png" style = 'width:5%;'></a>
 </div>
 <p align="center">
   <a href="#projet">Projet</a> •
@@ -38,29 +38,29 @@
 
  ## Photos 
                   
-    #### Acceuil            
+    Acceuil            
                   
    <a href="https://imgur.com/SnPDNKF"><img src="https://i.imgur.com/SnPDNKF.png" title="source: imgur.com" style='width:75%;'/></a>
                                                                                                            
-    ### Connexion
+    Connexion
                                                                                                            
    <a href="https://imgur.com/bDqOuky"><img src="https://i.imgur.com/bDqOuky.png" style='width:75%;' title="source: imgur.com" /></a>
                                                                                                                               
-    ### Vérification Email                                                                                                                  
+    Vérification Email                                                                                                                  
   
    <a  href="https://imgur.com/GW51s69"><img src="https://i.imgur.com/GW51s69.png" style='width:75%;' title="source: imgur.com" /></a>   
                                                                                                                                
                                                                                                                                
    <a href="https://imgur.com/f6sRb3r"><img src="https://i.imgur.com/f6sRb3r.png" style='width:50%;' title="source: imgur.com" /></a>
                                                                                                  
-    ### Stand
+    Stand
                                                                                                                             
    <a href="https://imgur.com/AAZwC8Z"><img src="https://i.imgur.com/AAZwC8Z.png" style='width:75%;' title="source: imgur.com" /></a>  
                                                                                                                           #### Créneaux Stand    
                                                                                                                               
    <a href="https://imgur.com/TwL7c2b"><img src="https://i.imgur.com/TwL7c2b.png" style='width:75%;' title="source: imgur.com" /> </a>
    
-    ### Réservation visiteur connecté
+    Réservation visiteur connecté
    
    <a href="https://imgur.com/u7sC0i0"><img src="https://i.imgur.com/u7sC0i0.png" style='width:75%;' title="source: imgur.com" /></a>  
                                                                                                                               
@@ -70,11 +70,11 @@
                                                                                                                               
    <a href="https://imgur.com/jnnxi3s"><img src="https://i.imgur.com/jnnxi3s.png" style='width:75%;' title="source: imgur.com" /></a>
                                                                                                                               
-    ### Planning de sa réservation   
+    Planning de sa réservation   
                                                                                                                               
    <a href="https://imgur.com/AxtNABJ"><img src="https://i.imgur.com/AxtNABJ.png" style='width:75%;' title="source: imgur.com" /></a> 
                                                                                                                               
-   #### Ajout Automatique des nouveaux stands ayant remplir le formulaire google docs fournir par Amimath via un Script relié au doc
+    Ajout Automatique des nouveaux stands ayant remplir le formulaire google docs fournir par Amimath via un Script relié au doc
     
    <a href="https://imgur.com/mF62Eyv"><img src="https://i.imgur.com/mF62Eyv.png" style='width:75%;' title="source: imgur.com" /></a> 
            
