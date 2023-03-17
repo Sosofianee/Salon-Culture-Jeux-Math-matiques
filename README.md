@@ -12,7 +12,7 @@
 <p align="center">
   <a href="#projet">Projet</a> •
   <a href="#fonctionnalités">Fonctionnalités</a> •
-  <a href="#pictures">Photos</a> • 
+  <a href="#photos">Photos</a> • 
   <a href="#installation">Installation</a> •
 </p>
 <div align="center">
@@ -27,16 +27,16 @@
                   
 ## Fonctionnalités
 
-* Site évenementiel permettant de réserver des cré
-* New vehicles
-* New grass, flowers
-* New bomb briefcase + bombsite 
-* Replaces all signs
-* New trees
-* Works with old demos
-* High quality
+* Base de donnée fonctionnel couvrant l'entièreté du site et toute ces fonctionnalités.
+* Modem de connexion et de droit (Admin,Visiteur)
+* Stand ayant des créneaux pouvant être réservé par un visiteur connecté.
+* Vérification de mail par envoie automatique de mail.
+* UI moderne.
+* Visibilité des réservations du visiteur connecté via un planning fonctionnel et maniable (Fullcalendar).
+* Interface Administrateur permettant de gérer les réservations et de modérer.
+                  
 
- ## Pictures 
+ ## Photos 
  
   - **[Artstation Page](https://www.artstation.com/artwork/blawbg)**                                 
                   
@@ -55,8 +55,8 @@
 - **[HTML](https://developer.mozilla.org/fr/docs/Web/HTML)**                  
 - **[CSS](https://developer.mozilla.org/fr/docs/Web/CSS)**
 - **[Js](https://developer.mozilla.org/fr/docs/Web/JavaScript)** 
-
-
+- **[PGSQL](https://www.postgresql.org/download/)** 
+- **[SweetAlert](https://sweetalert2.github.io/)** 
 - **[Fullcalendar](https://fullcalendar.io/)**                   
 - **[Bootstrap](https://getbootstrap.com/)**                   
 
