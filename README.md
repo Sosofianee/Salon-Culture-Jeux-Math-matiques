@@ -38,32 +38,29 @@
 
  ## Photos 
                   
-                
+    #### Acceuil            
                   
    <a href="https://imgur.com/SnPDNKF"><img src="https://i.imgur.com/SnPDNKF.png" title="source: imgur.com" style='width:75%;'/></a>
                                                                                                            
-
+    #### Connexion
                                                                                                            
    <a href="https://imgur.com/bDqOuky"><img src="https://i.imgur.com/bDqOuky.png" style='width:75%;' title="source: imgur.com" /></a>
                                                                                                                               
-                                                                                                                      
+    #### Vérification Email                                                                                                                  
   
    <a  href="https://imgur.com/GW51s69"><img src="https://i.imgur.com/GW51s69.png" style='width:75%;' title="source: imgur.com" /></a>   
                                                                                                                                
                                                                                                                                
    <a href="https://imgur.com/f6sRb3r"><img src="https://i.imgur.com/f6sRb3r.png" style='width:50%;' title="source: imgur.com" /></a>
                                                                                                  
-
-    
-   <a href="https://imgur.com/bDqOuky"><img src="https://i.imgur.com/bDqOuky.png" style='width:75%;' title="source: imgur.com" /></a> 
-
-                                                                                                                              
+    #### Stand
+                                                                                                                            
    <a href="https://imgur.com/AAZwC8Z"><img src="https://i.imgur.com/AAZwC8Z.png" style='width:75%;' title="source: imgur.com" /></a>  
-                                                                                                                              
+                                                                                                                          #### Créneaux Stand    
                                                                                                                               
    <a href="https://imgur.com/TwL7c2b"><img src="https://i.imgur.com/TwL7c2b.png" style='width:75%;' title="source: imgur.com" /> </a>
    
-
+    #### Réservation visiteur connecté
    
    <a href="https://imgur.com/u7sC0i0"><img src="https://i.imgur.com/u7sC0i0.png" style='width:75%;' title="source: imgur.com" /></a>  
                                                                                                                               
@@ -73,7 +70,7 @@
                                                                                                                               
    <a href="https://imgur.com/jnnxi3s"><img src="https://i.imgur.com/jnnxi3s.png" style='width:75%;' title="source: imgur.com" /></a>
                                                                                                                               
-                                                                                                                              
+    #### Planning de sa réservation                                                                                                                          
    <a href="https://imgur.com/AxtNABJ"><img src="https://i.imgur.com/AxtNABJ.png" style='width:75%;' title="source: imgur.com" /></a> 
                                                                                                                               
    #### Ajout Automatique des nouveaux stands ayant remplir le formulaire google docs fournir par Amimath via un Script relié au doc
