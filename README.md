@@ -11,7 +11,7 @@
 </div>
 <p align="center">
   <a href="#projet">Projet</a> •
-  <a href="#features">Fonctionnalités</a> •
+  <a href="#fonctionnalités">Fonctionnalités</a> •
   <a href="#pictures">Photos</a> • 
   <a href="#installation">Installation</a> •
 </p>
