@@ -10,6 +10,7 @@
   <a href="https://www.univ-paris13.fr/"><img src="https://www.univ-paris13.fr/wp-content/uploads/logoUSPN-e1672742444342.png"></a>
 </div>
 <p align="center">
+  <a href="#projet">Projet</a> •
   <a href="#features">Fonctionnalités</a> •
   <a href="#pictures">Photos</a> • 
   <a href="#installation">Installation</a> •
@@ -21,9 +22,12 @@
 </div>
 <h4 align="center">Le projet est fonctionnel, il faut néanmoins quelque connaissance sur le sujet et particulièrement dans la mise en place d'un </br> environnement de travail WAMP/XAMP ou autres similaires ainsi que la mise en place d'un serveur local psql (postgres SQL).</a></h4>
 
-## Features
+## Projet 
+  L’association Animath organise un événement qui aura pour objectif de Dédra’’math’’iser les maths. Cet événement s’étalera sur 4 jours, du jeudi au dimanche de 9 heures à 18 heures. Cet événement sera gratuit et ouvert à tous, de nombreux exposants tiendront des stands du jeudi au vendredi (jeudi et vendredi pour les scolaires et samedi et dimanche pour tout public) sur des créneaux tout au long de la journée avec des capacités variant en fonction du stand et du nombre d’exposants disponibles. Ce projet doit être développé pour les visiteurs afin qu’ils puissent réserver des créneaux avec les exposants.
+                  
+## Fonctionnalités
 
-* Replaces a lot of assets/models from base game
+* Site évenementiel permettant de réserver des cré
 * New vehicles
 * New grass, flowers
 * New bomb briefcase + bombsite 
@@ -41,7 +45,7 @@
 
 1. Installer le zip.
 2. Extraire le zip et disposer les fichiers dans son dossiers WAMP/XAMP ou autres.
-3. Lire le Guide d'installation pour éviter quelques bugs.
+3. Lire le Guide d'installation pour éviter quelques bugs. ( Voir le guide d'installation <a href="https://github.com/Sosofianee/Salon-Culture-Jeux-Math-matiques/tree/main/Utils/Guide d_installation.docx" title="Download" download>Télécharger</a> )
 4. Fini ! 
                  
                   
@@ -57,18 +61,4 @@
 - **[Bootstrap](https://getbootstrap.com/)**                   
 
 
-
----
-
-# Salon-Culture-Jeux-Math-matiques
-
-## Dans le cadre de ma seconde année à l'IUT Villetaneuse j'ai pu réaliser un site événementiel pour le Salon culture Jeux Mathématiques.
-
--------------------------------------------------------------------------------------------------------------------------------------------
-
-### 
-<br/>
-
-Voir le guide d'installation <a href="https://github.com/Sosofianee/Salon-Culture-Jeux-Math-matiques/tree/main/Utils/Guide d_installation.docx" title="Download" download>Télécharger</a>
-
----------
+Merci !
