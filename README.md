@@ -76,7 +76,7 @@
                                                                                                                               
    <a href="https://imgur.com/AxtNABJ"><img src="https://i.imgur.com/AxtNABJ.png" style='width:75%;' title="source: imgur.com" /></a> 
                                                                                                                               
-    <font size='4> Ajout Automatique des nouveaux stands ayant remplir le formulaire google docs fournir par Amimath via un Script relié au doc</font>
+   #### Ajout Automatique des nouveaux stands ayant remplir le formulaire google docs fournir par Amimath via un Script relié au doc
     
    <a href="https://imgur.com/mF62Eyv"><img src="https://i.imgur.com/mF62Eyv.png" style='width:75%;' title="source: imgur.com" /></a> 
            
