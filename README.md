@@ -38,14 +38,23 @@
 
  ## Photos 
                   
-
-   <a href="https://imgur.com/SnPDNKF"><img src="https://i.imgur.com/SnPDNKF.png" title="source: imgur.com" style='width:75%;'/>Accueil</a> <p>Accueil</p>  
-   <a href="https://imgur.com/bDqOuky"><img src="https://i.imgur.com/bDqOuky.png" style='width:75%;' title="source: imgur.com" />Création de compte</a>  <p>Création de compte</p>                          <a href="https://imgur.com/GW51s69"><img src="https://i.imgur.com/GW51s69.png" style='width:75%;' title="source: imgur.com" /> Vérification email</a>  <p>Vérification email</p>                        <a href="https://imgur.com/f6sRb3r"><img src="https://i.imgur.com/f6sRb3r.png" style='width:50%;' title="source: imgur.com" /></a>
-   <a href="https://imgur.com/bDqOuky"><img src="https://i.imgur.com/bDqOuky.png" style='width:75%;' title="source: imgur.com" /></a> <p>Connexion</p>
-   <a href="https://imgur.com/AAZwC8Z"><img src="https://i.imgur.com/AAZwC8Z.png" style='width:75%;' title="source: imgur.com" /></a> <p>Stand</p>                                       <a href="https://imgur.com/TwL7c2b"><img src="https://i.imgur.com/TwL7c2b.png" style='width:75%;' title="source: imgur.com" /> </a> <p>Créneaux</p>                                    <a href="https://imgur.com/u7sC0i0"><img src="https://i.imgur.com/u7sC0i0.png" style='width:75%;' title="source: imgur.com" /></a> <p>Réservation</p>  
+    <p style='font-weight:800px;'>Accueil</p>  
+   <a href="https://imgur.com/SnPDNKF"><img src="https://i.imgur.com/SnPDNKF.png" title="source: imgur.com" style='width:75%;'/></a> 
+   <p style='font-weight:800px;'>Création de compte</p>                                                                                                        
+   <a href="https://imgur.com/bDqOuky"><img src="https://i.imgur.com/bDqOuky.png" style='width:75%;' title="source: imgur.com" /></a>
+    <p >Vérification email</p>                                                                                                                           <a href="https://imgur.com/GW51s69"><img src="https://i.imgur.com/GW51s69.png" style='width:75%;' title="source: imgur.com" /></a>                         <a href="https://imgur.com/f6sRb3r"><img src="https://i.imgur.com/f6sRb3r.png" style='width:50%;' title="source: imgur.com" /></a>
+    <p>Créneaux</p>
+   <a href="https://imgur.com/bDqOuky"><img src="https://i.imgur.com/bDqOuky.png" style='width:75%;' title="source: imgur.com" /></a> 
+   <p>Stand</p>                                                                                                                            
+   <a href="https://imgur.com/AAZwC8Z"><img src="https://i.imgur.com/AAZwC8Z.png" style='width:75%;' title="source: imgur.com" /></a>                                       <a href="https://imgur.com/TwL7c2b"><img src="https://i.imgur.com/TwL7c2b.png" style='width:75%;' title="source: imgur.com" /> </a>
+   <p>Réservation</p> 
+   <a href="https://imgur.com/u7sC0i0"><img src="https://i.imgur.com/u7sC0i0.png" style='width:75%;' title="source: imgur.com" /></a>  
    <a href="https://imgur.com/Eh6QxvY"><img src="https://i.imgur.com/Eh6QxvY.png" style='width:75%;' title="source: imgur.com" /></a>
-   <a href="https://imgur.com/jnnxi3s"><img src="https://i.imgur.com/jnnxi3s.png" style='width:75%;' title="source: imgur.com" /></a> <p>Créneau réservé</p>                              <a href="https://imgur.com/AxtNABJ"><img src="https://i.imgur.com/AxtNABJ.png" style='width:75%;' title="source: imgur.com" /></a> <p>Planning Visiteur de sa réservation</p>
-   <a href="https://imgur.com/mF62Eyv"><img src="https://i.imgur.com/mF62Eyv.png" style='width:75%;' title="source: imgur.com" /></a> <p> Ajout Automatique des nouveaux stands ayant remplir le formulaire google docs fournir par Amimath via un Script relié au doc</p>
+    <p>Créneau réservé</p>                                                                                                                           
+   <a href="https://imgur.com/jnnxi3s"><img src="https://i.imgur.com/jnnxi3s.png" style='width:75%;' title="source: imgur.com" /></a>
+    <p>Planning Visiteur de sa réservation</p>                                                                                                                          <a href="https://imgur.com/AxtNABJ"><img src="https://i.imgur.com/AxtNABJ.png" style='width:75%;' title="source: imgur.com" /></a> 
+    <p> Ajout Automatique des nouveaux stands ayant remplir le formulaire google docs fournir par Amimath via un Script relié au doc</p>
+   <a href="https://imgur.com/mF62Eyv"><img src="https://i.imgur.com/mF62Eyv.png" style='width:75%;' title="source: imgur.com" /></a> 
            
 
 ## Installation
