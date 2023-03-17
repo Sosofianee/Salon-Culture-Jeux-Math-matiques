@@ -84,7 +84,7 @@
 4. Fini ! 
                  
                   
-## Languages / Frameworks
+## Langages / Frameworks
 - **[PHP](https://www.php.net/)**
 - **[Canvas](https://www.canva.com/)**
 - **[HTML](https://developer.mozilla.org/fr/docs/Web/HTML)**                  
