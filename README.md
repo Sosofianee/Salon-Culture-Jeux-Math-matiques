@@ -98,5 +98,5 @@
 - **[Bootstrap](https://getbootstrap.com/)**                   
 
 
-<a href="https://www.univ-spn.fr/" ><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Logo-UP13-noirS.png/800px-Logo-UP13-noirS.png" style = 'width:25%; margin-top:50px;'>
+<a href="https://www.univ-spn.fr/" ><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Logo-UP13-noirS.png/800px-Logo-UP13-noirS.png" style = 'width:25%; margin-top:50px;'></a> </br>
 Merci !
