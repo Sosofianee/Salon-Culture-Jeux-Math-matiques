@@ -9,7 +9,7 @@
 <h4 align="center">Site événementiel pour le Salon culture Jeux Mathématiques </h4>
 <div align="center">
   <a href="https://www.animath.fr/" ><img src="http://maths-olympiques.fr/wp-content/uploads/2018/05/logo-animath-300x120.png" style = 'width:25%; margin-top:50px;'></a> </br>
-  <a href="https://www.univ-paris13.fr/" ><img src="[https://www.univ-paris13.fr/wp-content/uploads/logoUSPN-e1672742444342.png](https://upload.wikimedia.org/wikipedia/commons/7/7a/Logo-UP13-noirS.png)" style = 'width:10%;'></a>
+  <a href="https://www.univ-paris13.fr/" ><img src="https://www.univ-paris13.fr/wp-content/uploads/logoUSPN-e1672742444342.png" style = 'width:25%; margin-top:50px;'></a>
 </div>
 <p align="center">
   <a href="#projet">Projet</a> •
