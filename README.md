@@ -9,6 +9,7 @@
 <h4 align="center">Site événementiel pour le Salon culture Jeux Mathématiques </h4>
 <div align="center">
   <a href="https://www.animath.fr/" ><img src="http://maths-olympiques.fr/wp-content/uploads/2018/05/logo-animath-300x120.png" style = 'width:25%; margin-top:50px;'></a> 
+   
 </div>
 <p align="center">
   <a href="#projet">Projet</a> •
@@ -97,4 +98,5 @@
 - **[Bootstrap](https://getbootstrap.com/)**                   
 
 
+<a href="https://www.univ-spn.fr/" ><img src="http://maths-olympiques.fr/wp-content/uploads/2018/05/logo-animath-300x120.png" style = 'width:25%; margin-top:50px;'>
 Merci !
