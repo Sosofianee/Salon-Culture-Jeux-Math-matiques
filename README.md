@@ -97,6 +97,8 @@
 - **[Fullcalendar](https://fullcalendar.io/)**                   
 - **[Bootstrap](https://getbootstrap.com/)**                   
 
+Merci !
+
 
 <a href="https://www.univ-spn.fr/" ><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Logo-UP13-noirS.png/800px-Logo-UP13-noirS.png" style = 'width:10%; margin-top:20px;'></a> </br>
-Merci !
+
